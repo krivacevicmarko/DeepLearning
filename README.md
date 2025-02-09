@@ -30,7 +30,7 @@ This project involves designing a multi-agent system based on Large Language Mod
 3) Agent Communication and Task Handover:
  - Linear and dynamic handover mechanisms are implemented to transfer tasks between agents.
  - The system ensures efficient cooperation between agents to generate coherent research reports.
-4)Implementation and Evaluation:
+4) Implementation and Evaluation:
  - The system is tested with sample research topics.
  - The accuracy and coherence of generated reports are evaluated.
 
