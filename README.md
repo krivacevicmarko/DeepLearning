@@ -5,7 +5,7 @@
 This project focuses on applying Convolutional Neural Networks (CNNs) to recognize the dominant color in an image. The implementation involves:
 
 1) Dataset preprocessing: The dataset (House Plant Species) is analyzed, cleaned, and prepared for training.
-2) Data analysis: At least six statistical and visualization methods are applied to explore dataset characteristics.
+2) Data analysis: Six statistical and visualization methods are applied to explore dataset characteristics.
 3) CNN Model Design and Training:
  - The model is built using TensorFlow/Keras.
  - Multiple CNN architectures are tested, with at least three versions evaluated.
